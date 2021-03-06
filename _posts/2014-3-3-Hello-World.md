@@ -3,7 +3,8 @@ layout: post
 title: First Post
 ---
 
-This is my first attempt at setting up something resembling my own website. 
+This is my first attempt at setting up something resembling my own website  
+
 
 I am a student of Electrical Engineering. My interests range from Neuroscience to Machine Learning to Hardware Design. 
 Being an avid reader, I come across a lot of interesting material. 
